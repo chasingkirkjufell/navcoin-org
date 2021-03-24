@@ -32,12 +32,6 @@ newTab="true"
         linkUrl="https://www.binance.com/it/trade/NAV_BTC"
     >}}
     {{< exchange
-        titleText="Litebit"
-        imgSrc="/images/buy-navcoin/buy-litebit.png"
-        text="Euro acquisto diretto"
-        linkUrl="https://www.litebit.eu/en/buy/navcoin"
-    >}}
-    {{< exchange
         titleText="Easy Crypto"
         imgSrc="/images/buy-navcoin/buy-easy-crypto.png"
         text="Acquisto diretto NZD"
@@ -66,12 +60,6 @@ newTab="true"
         imgSrc="/images/buy-navcoin/buy-crex-24.png"
         text="Multi piattaforma di scambio"
         linkUrl="https://crex24.com/exchange/NAV-BTC"
-    >}}
-    {{< exchange
-        titleText="Bitexlive"
-        imgSrc="/images/buy-navcoin/bitexlive.png"
-        text="BTC / NAV"
-        linkUrl="https://bitexlive.com/exchange/BTC-NAV"
     >}}
     {{< exchange
         titleText="Coinmerce"
@@ -195,10 +183,3 @@ newTab="true"
         linkUrl="https://changeangel.io/"
     >}}
 {{< /item_container_section >}}
-
-{{< center_text_cta
-    titleText="Utilizzare Navcoin"
-    buttonText="Fare acquisti nei negozi"
-    buttonImgSrc="/images/icons/rightward-arrow.svg"
-    buttonLink="/merchants"
-    innerText="Molte aziende hanno già iniziato ad integrare Navcoin come opzione di pagamento e quindi potete acquistare una vasta gamma di prodotti e&nbsp;servizi.">}}

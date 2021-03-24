@@ -32,12 +32,6 @@ newTab="true"
         linkUrl="https://www.binance.com/en/trade/NAV_BTC"
     >}}
     {{< exchange
-        titleText="Litebit"
-        imgSrc="/images/buy-navcoin/buy-litebit.png"
-        text="ユーロによる直接購入"
-        linkUrl="https://www.litebit.eu/en/buy/navcoin"
-    >}}
-    {{< exchange
         titleText="Easy Crypto"
         imgSrc="/images/buy-navcoin/buy-easy-crypto.png"
         text="NZDによる直接購入"
@@ -66,12 +60,6 @@ newTab="true"
         imgSrc="/images/buy-navcoin/buy-crex-24.png"
         text="複数取引所プラットフォーム"
         linkUrl="https://crex24.com/exchange/NAV-BTC"
-    >}}
-    {{< exchange
-        titleText="Bitexlive"
-        imgSrc="/images/buy-navcoin/bitexlive.png"
-        text="BTC / NAV"
-        linkUrl="https://bitexlive.com/exchange/BTC-NAV"
     >}}
     {{< exchange
         titleText="Coinmerce"
@@ -195,11 +183,3 @@ newTab="true"
     >}}
     
 {{< /item_container_section >}}
-
-
-{{< center_text_cta
-    titleText="Navcoinを使う"
-    buttonText="店舗を見る"
-    buttonImgSrc="/images/icons/rightward-arrow.svg"
-    buttonLink="/merchants"
-    innerText="多くのビジネスが、支払いのオプションとしてすでにNavcoinを取り入れ始めています。それらを利用して様々な商品やサービスを購入する事が&nbsp;できます。">}}

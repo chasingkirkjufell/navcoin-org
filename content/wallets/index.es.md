@@ -75,16 +75,6 @@ newTab="true"
         newTab="true"
     >}}
     {{< wallet
-        titleText="Magnum Wallet"
-        walletImgSrc="/images/wallets/SVGLogo.svg"
-        text="Billetera no custodial ligera y universal para administrar más de 1000 activos&nbsp;criptográficos."
-        buttonUrl="https://magnumwallet.co/"
-        buttonText="Más información"
-        buttonImgSrc="/images/icons/rightward-arrow.svg"
-        platformImg6Src="/images/platforms/web.png"
-        newTab="true"
-    >}}
-    {{< wallet
         titleText="Coinomi"
         walletImgSrc="/images/wallets/wal-coinomi.png"
         text="Coinomi es un monedero con multiples activos para Bitcoin, Altcoins y&nbsp;Tokens."
@@ -110,8 +100,8 @@ newTab="true"
 {{< /item_container_section >}}
 
 {{< item_container_section
-titleText="Descargar NavCoin Core 6.0.2"
-subtitleText="El monedero NavCoin Core ha sido cuidadosamente diseñado para que sea intuitivo y fácil de usar. Viene con un asistente de configuración y todo lo que necesita para cargar la cadena de bloques y comenzar a enviar transacciones de forma&nbsp;segura."
+titleText="Descargar Navcoin Core 6.0.2"
+subtitleText="El monedero Navcoin Core ha sido cuidadosamente diseñado para que sea intuitivo y fácil de usar. Viene con un asistente de configuración y todo lo que necesita para cargar la cadena de bloques y comenzar a enviar transacciones de forma&nbsp;segura."
 bgPurple="true"
 anchor="download-core"
 buttonUrl="https://github.com/NAVCoin/navcoin-core/releases/latest"

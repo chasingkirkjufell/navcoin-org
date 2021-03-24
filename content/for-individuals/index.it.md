@@ -45,15 +45,7 @@ imgSrc="/images/for-beginners/beg-hero.svg"
       text="Se stai utilizzando la versione Core del portafoglio Navcoin, hai la possibilità di attivare lo staking delle tue monete e ricevere una ricompensa pari al 8-10% all'anno. Ci sono diversi strumenti per rendere lo staking semplice ed esistono molte informazioni create dalla comunità che possono aiutarti a&nbsp;cominciare."
   >}}
   {{< step
-      titleText="Passo 5: Spendere Navcoin"
-      imgSrc="/images/for-beginners/beg-spend.svg"
-      text="Puoi utilizzare i tuoi Navcoin per acquistare ogni sorta di oggetti o servizio, online ed in negozi fisici. Guarda i commercianti che accettano NAV come opzione di pagamento e mostra il tuo&nbsp;supporto."
-      buttonText="Mercanti"
-      buttonUrl="/merchants"
-      buttonImgSrc="/images/icons/rightward-arrow.svg"
-  >}}
-  {{< step
-      titleText="Passo 6: Partecipa ai progetti Navcoin"
+      titleText="Passo 5: Partecipa ai progetti Navcoin"
       imgSrc="/images/for-beginners/beg-get-involved.svg"
       text="Navcoin non è solo una criptovauta - è una comunità che crede fermamente in una nuova visione monetaria. E una comunità è forte solo come gli individui che vi contribuiscono. Attraverso il Fondo Comunitario puoi essere ricompensato per la partecipazione nei progetti di Navcoin. Unisciti ai canali della comunità ed inizia a&nbsp;partecipare."
       buttonText="Fondo Comunitario"
@@ -71,11 +63,6 @@ imgSrc="/images/for-beginners/beg-hero.svg"
     titleText="Discord"
     imgSrc="/images/for-beginners/beg-discord.svg"
     linkUrl="https://discordapp.com/invite/y4Vu9jw"
->}}
-{{< social                 
-    titleText="Collab"
-    imgSrc="/images/for-beginners/beg-collab.svg"
-    linkUrl="https://collab.navcoin.org/dashboard"
 >}}
 {{< social                 
     titleText="Reddit"

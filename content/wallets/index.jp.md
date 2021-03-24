@@ -74,16 +74,6 @@ newTab="true"
         newTab="true"
     >}}
     {{< wallet
-        titleText="Magnum Wallet"
-        walletImgSrc="/images/wallets/SVGLogo.svg"
-        text="1000を超える暗号資産を管理するための軽量で普遍的な非保管財布。"
-        buttonUrl="https://magnumwallet.co/"
-        buttonText="詳しくは"
-        buttonImgSrc="/images/icons/rightward-arrow.svg"
-        platformImg6Src="/images/platforms/web.png"
-        newTab="true"
-    >}}
-    {{< wallet
         titleText="Coinomi"
         walletImgSrc="/images/wallets/wal-coinomi.png"
         text="Coinomi は、セキュリティ重視の、ビットコイン、アルトコインそしてトークン用のマルチアセットウォレット&nbsp;です。"
@@ -109,8 +99,8 @@ newTab="true"
 {{< /item_container_section >}}
 
 {{< item_container_section
-    titleText="NavCoin Core 6.0.2のダウンロード"
-    subtitleText="NavCoin Core ウォレットは、直感的で簡単な使い方になるよう何度も見直されて来ました。これにはセットアップウィザードと、ブロックチェーンの読み込み、安全な環境でそして送金を始めるに当たって必要なもの全てが付いて&nbsp;きます。"
+    titleText="Navcoin Core 6.0.2のダウンロード"
+    subtitleText="Navcoin Core ウォレットは、直感的で簡単な使い方になるよう何度も見直されて来ました。これにはセットアップウィザードと、ブロックチェーンの読み込み、安全な環境でそして送金を始めるに当たって必要なもの全てが付いて&nbsp;きます。"
     bgPurple="true"
     anchor="download-core"
     buttonUrl="https://github.com/NAVCoin/navcoin-core/releases/latest"

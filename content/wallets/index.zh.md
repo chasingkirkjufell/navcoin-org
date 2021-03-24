@@ -74,16 +74,6 @@ newTab="正确的"
         newTab="正确的"
     >}}
     {{< wallet
-        titleText="Magnum Wallet"
-        walletImgSrc="/images/wallets/SVGLogo.svg"
-        text="轻便且通用的非保管钱包，用于管理1000多个加密资产。"
-        buttonUrl="https://magnumwallet.co/"
-        buttonText="更多信息"
-        buttonImgSrc="/images/icons/rightward-arrow.svg"
-        platformImg6Src="/images/platforms/web.png"
-        newTab="true"
-    >}}
-    {{< wallet
         titleText="Coinomi"
         walletImgSrc="/images/wallets/wal-coinomi.png"
         text="Coinomi是一个安全第一的多重资产钱包，用于比特币、替代币和代币."
@@ -109,8 +99,8 @@ newTab="正确的"
 {{< /item_container_section >}}
 
 {{< item_container_section
-    titleText="下载NavCoin Core 6.0.2"
-    subtitleText="NavCoin Core钱包经过精心提炼，直观易用。它附带了一个安装向导，以及加载区块链并开始在安全环境中发送交易所需的一切。"
+    titleText="下载Navcoin Core 6.0.2"
+    subtitleText="Navcoin Core钱包经过精心提炼，直观易用。它附带了一个安装向导，以及加载区块链并开始在安全环境中发送交易所需的一切。"
     bgPurple="正确的"
     anchor="download-core"
     buttonUrl="https://github.com/NAVCoin/navcoin-core/releases/latest"
